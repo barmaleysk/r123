@@ -33,7 +33,7 @@ tutorial_url = 'http://telegra.ph/'
 
 
 
-WEBHOOK_HOST = '85.143.175.216'
+WEBHOOK_HOST = '52.202.134.94'
 WEBHOOK_PORT = 443
 WEBHOOK_LISTEN = '0.0.0.0'
 

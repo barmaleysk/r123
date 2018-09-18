@@ -1,1 +1,1 @@
-web: Shell script start.sh
+web: python main.py
